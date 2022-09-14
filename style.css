@@ -5,3 +5,6 @@
     flex-wrap: wrap;
     margin: auto;
 }
+img{
+    cursor: pointer;
+}
